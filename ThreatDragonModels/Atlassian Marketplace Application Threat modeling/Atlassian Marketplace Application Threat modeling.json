@@ -11,6 +11,11 @@
         "title": "Atlassian Jira Cloud Application Threat modeling",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "Atlassian Confluence Cloud Application Threat modeling",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
