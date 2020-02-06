@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Atlassian Marketplace Application Threat modeling",
+    "owner": "Jean-Pascal Boignard",
+    "description": "To represent assets, attack vectors, and find security mechanisms or components to reduce vulnerabilities."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
