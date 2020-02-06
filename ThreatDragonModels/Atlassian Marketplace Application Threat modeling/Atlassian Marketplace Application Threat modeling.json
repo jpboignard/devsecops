@@ -6,6 +6,12 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Atlassian Jira Cloud Application Threat modeling",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
